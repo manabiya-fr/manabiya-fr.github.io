@@ -1,0 +1,60 @@
+[project]
+site_name = "Manabiya"
+site_description = "Manabiya."
+site_author = "Dimitar Dimitrov (drdv.net)"
+site_url = "https://manabiya.fr/"
+repo_url = "https://github.com/manabiya-fr"
+edit_uri = "edit/main/docs/"
+copyright = """&copy; 2025 Manabiya"""
+
+nav = [
+  {"Home" = "index.md"},
+]
+
+# ----------------------------------------------------------------------------
+# Section for configuring theme options
+# ----------------------------------------------------------------------------
+[project.theme]
+language = "en"
+
+features = [
+    # "announce.dismiss",
+	# "content.action.edit",
+    # "content.action.view",
+    "content.code.annotate",
+    "content.code.copy",
+    "content.code.select",
+    "content.footnote.tooltips",
+    "content.tabs.link",
+    "content.tooltips",
+    "header.autohide",
+    # "navigation.expand",
+    # "navigation.footer",
+    "navigation.indexes",
+    "navigation.instant",
+    "navigation.instant.prefetch",
+    "navigation.instant.progress",
+    # "navigation.path",
+    # "navigation.prune",
+    "navigation.sections",
+    "navigation.tabs",
+    "navigation.tabs.sticky",
+    "navigation.top",
+    "navigation.tracking",
+    "search.highlight",
+    # "toc.follow",
+    # "toc.integrate",
+]
+
+[[project.theme.palette]]
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
+
+[project.extra]
+generator = false
