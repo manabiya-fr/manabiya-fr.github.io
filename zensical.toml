@@ -1,14 +1,20 @@
 [project]
 site_name = "Manabiya"
-site_description = "Manabiya."
+site_description = "Manabiya SASU."
 site_author = "Dimitar Dimitrov (drdv.net)"
 site_url = "https://manabiya.fr/"
-repo_url = "https://github.com/manabiya-fr"
-edit_uri = "edit/main/docs/"
-copyright = """&copy; 2025 Manabiya"""
+copyright = """&copy; 2025-2026 Manabiya"""
 
 nav = [
-  {"Home" = "index.md"},
+  { "Home" = "index.md" },
+  { "Courses" = [
+      "courses/index.md",
+	  { "Introduction to Python" = "courses/python-intro-data-science.md" },
+	  { "Git for non-coders" = "courses/git.md" },
+  ]},
+  { "Events & Workshops" = "workshops.md" },
+  { "FAQ" = "faq.md" },
+  { "Contact" = "contact.md" }
 ]
 
 # ----------------------------------------------------------------------------
@@ -16,40 +22,28 @@ nav = [
 # ----------------------------------------------------------------------------
 [project.theme]
 language = "en"
+favicon = "img/logo-manabiya.png"
+logo = "img/logo-manabiya.png"
 
 features = [
-    # "announce.dismiss",
-	# "content.action.edit",
-    # "content.action.view",
     "content.code.annotate",
     "content.code.copy",
     "content.code.select",
     "content.footnote.tooltips",
-    "content.tabs.link",
     "content.tooltips",
     "header.autohide",
-    # "navigation.expand",
-    # "navigation.footer",
-    "navigation.indexes",
-    "navigation.instant",
-    "navigation.instant.prefetch",
-    "navigation.instant.progress",
-    # "navigation.path",
-    # "navigation.prune",
-    "navigation.sections",
     "navigation.tabs",
-    "navigation.tabs.sticky",
-    "navigation.top",
     "navigation.tracking",
     "search.highlight",
-    # "toc.follow",
-    # "toc.integrate",
 ]
 
 [[project.theme.palette]]
 scheme = "default"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
+logo = "fontawesome/solid/lines-leaning"
+favicon = "fontawesome/solid/lines-leaning"
+
 
 [[project.theme.palette]]
 scheme = "slate"
