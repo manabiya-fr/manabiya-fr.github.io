@@ -56,3 +56,7 @@ generator = false
 [[project.extra.social]]
 icon = "fontawesome/solid/at"
 link = "mailto:contact@manabiya.fr"
+
+[project.extra.analytics]
+provider = "google"
+property = "G-LKE7ZYCBGE"
