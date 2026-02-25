@@ -52,3 +52,7 @@ toggle.name = "Switch to light mode"
 
 [project.extra]
 generator = false
+
+[[project.extra.social]]
+icon = "fontawesome/solid/at"
+link = "mailto:contact@manabiya.fr"

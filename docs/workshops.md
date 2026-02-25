@@ -1,3 +1,7 @@
+---
+description: Manabiya Grenoble, workshops, hobby projects, meetup events. Write robot simulator from scratch in python. SICP meetup with Racket. Emacs monthly meetup, Homage to Carl Sagan meetup.
+---
+
 # Events & Workshops
 
 We regularly host open [community

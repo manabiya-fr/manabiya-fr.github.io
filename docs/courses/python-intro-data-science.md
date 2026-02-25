@@ -1,5 +1,6 @@
 ---
 icon: material/language-python
+description: Manabiya Grenoble, Python course in English (test and document code), Data science (Numpy, Pandas, scikit-learn), Regression models and least-squares, Learn git, GitHub.
 hide: 
     - toc
 ---

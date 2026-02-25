@@ -1,3 +1,7 @@
+---
+description: Contact Manabiya Grenoble.
+---
+
 # Contact us
 
 Get in touch with us for more information.

@@ -1,3 +1,7 @@
+---
+description: Manabiya Grenoble, in-person courses in software engineering, mathematical optimization and their applications.
+---
+
 # Welcome to Manabiya
 
 We provide in-person courses in software engineering, mathematical optimization and

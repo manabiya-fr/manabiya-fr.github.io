@@ -1,4 +1,5 @@
 ---
+description: Upcoming courses in Grenoble in software engineering, mathematical optimization. Python, Git.
 hide: 
     - toc
 ---
