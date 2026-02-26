@@ -1,5 +1,5 @@
 ---
-description: Contact Manabiya Grenoble.
+description: Contact Manabiya Grenoble France.
 ---
 
 # Contact us

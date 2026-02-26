@@ -1,5 +1,5 @@
 ---
-description: Upcoming courses in Grenoble in software engineering, mathematical optimization. Python, Git.
+description: Upcoming courses in Grenoble (France) in software engineering, mathematical optimization. Python, Git.
 hide: 
     - toc
 ---
@@ -9,7 +9,7 @@ hide:
 <div class="grid cards" markdown>
 
 -   :material-language-python: __[Introduction to Python]__  
-    :fontawesome-solid-calendar-check: 30 March &mdash; 1 May, 2026  
+    :fontawesome-solid-calendar-check: 30 March &mdash; 27 April, 2026  
 	:fontawesome-solid-language: English
 
 	---
@@ -22,7 +22,7 @@ hide:
     commonly used in data science.
 
 -   :fontawesome-brands-git-alt: __[Git for non-coders]__  
-    :fontawesome-solid-calendar-check: April 6 &mdash; 12, 2026  
+    :fontawesome-solid-calendar-check: 29 April &mdash; 6 May, 2026  
 	:fontawesome-solid-language: English
   
     ---

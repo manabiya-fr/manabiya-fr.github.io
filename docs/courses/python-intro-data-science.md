@@ -1,6 +1,6 @@
 ---
 icon: material/language-python
-description: Manabiya Grenoble, Python course in English (test and document code), Data science (Numpy, Pandas, scikit-learn), Regression models and least-squares, Learn git, GitHub.
+description: Manabiya Grenoble France, Python course in English (test and document code), Data science (Numpy, Pandas, scikit-learn), Regression models and least-squares, Learn git, GitHub.
 hide: 
     - toc
 ---
@@ -9,7 +9,7 @@ hide:
 
 !!! note ""
 
-	+ **Upcoming Course Dates**: 30 March &mdash; 1 May, 2026
+	+ **Upcoming Course Dates**: 30 March &mdash; 27 April, 2026
 	+ **Course Format**: this is a "_Project Studio_" style course &mdash; see [description](#course-format)
 	+ **Cost**: €450
 	+ **Register**: contact us at contact@manabiya.fr
@@ -48,7 +48,7 @@ to jump in and get your hands dirty.
 You will learn:
 
 + [X] To use [Git](https://git-scm.com/) (and [GitHub](https://github.com/)) &mdash;
-      this would lead to a major change in the way you work!
+      this would lead to a major change in the way you work and collaborate!
 + [X] To formulate and solve problems using [Python](https://www.python.org/):
     + basic syntax, expressions, and statements
 	+ how and when to use: lists, dictionaries, sets, tuples, ...
@@ -105,8 +105,8 @@ participate remotely and asynchronously.
 
 ### :material-account-check: Live coding sessions (on-site)
 
-We will hold in-person live coding sessions during the following time
-slots[^attendance]:
+We will hold in-person live coding sessions (in the [office](../contact.md) of Manabiya)
+during the following time slots[^attendance]:
 
 + **Mondays**: 18:00 &mdash; 20:00
 + **Wednesdays**: 14:00 &mdash; 18:00
@@ -128,8 +128,9 @@ Whenever needed, we can organize dedicated discussion sessions via e.g., Google 
 address pressing questions.
 
 **In short**: you’ll have every opportunity, resource, and bit of guidance you need to
-challenge yourself and expand your skills! This is around 50 hours of live-coding plus
-the option to have remote discussions (whenever necessary).
+challenge yourself and expand your skills! This is over 50 hours of live-coding,
+follow-up on GitHub "Issues" throughout the month, plus the option to have remote
+discussions (whenever necessary).
 
 ## Can I really follow this course &mdash; I haven't done data science before?
 
