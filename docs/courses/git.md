@@ -1,6 +1,6 @@
 ---
 icon: fontawesome/brands/git-alt
-description: Manabiya Grenoble France, course in Git for non-coders. A way to bring structure and organize your workflow.
+description: Git course / cours Git à Grenoble pour non-codeurs. Organiser votre workflow, collaborer efficacement. Cours en anglais, en présentiel.
 hide: 
     - toc
 ---

@@ -1,5 +1,5 @@
 ---
-description: Manabiya Grenoble France, workshops, hobby projects, meetup events. Write robot simulator from scratch in python. SICP meetup with Racket. Emacs monthly meetup, Homage to Carl Sagan meetup.
+description: Manabiya Grenoble France, workshops / ateliers et meetups. Robot simulator en Python, SICP avec Racket, Emacs, Cosmos de Carl Sagan. Événements en présentiel.
 ---
 
 # Events & Workshops

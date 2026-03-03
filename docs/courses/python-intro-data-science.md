@@ -1,6 +1,6 @@
 ---
 icon: material/language-python
-description: Manabiya Grenoble France, Python course in English (test and document code), Data science (Numpy, Pandas, scikit-learn), Regression models and least-squares, Learn git, GitHub.
+description: Python course / cours Python à Grenoble, en anglais. Data science (Numpy, Pandas, scikit-learn), régression, Git et GitHub. Formation en présentiel.
 hide: 
     - toc
 ---

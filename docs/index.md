@@ -1,5 +1,5 @@
 ---
-description: Manabiya Grenoble France, in-person courses in software engineering, mathematical optimization and their applications.
+description: Manabiya Grenoble France, in-person courses / cours en informatique, optimisation mathématique et applications. Cours en anglais, en présentiel.
 ---
 
 # Welcome to Manabiya

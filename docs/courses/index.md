@@ -1,5 +1,5 @@
 ---
-description: Upcoming courses in Grenoble (France) in software engineering, mathematical optimization. Python, Git.
+description: Formations en informatique, data science et optimisation à Grenoble. Cours en anglais, en présentiel. Python, Git et projets concrets.
 hide: 
     - toc
 ---
@@ -35,5 +35,21 @@ hide:
   
 </div>
 
-  [Introduction to Python]: python-intro-data-science.md
-  [Git for non-coders]: git.md
+## :fr: Centre de formation informatique, data science et optimisation à Grenoble
+
+Manabiya est un centre de formation informatique à Grenoble. Nous proposons des cours de
+data science, de programmation appliquée et d’optimisation mathématique, en présentiel
+et en anglais.
+
+Nos formations sont pratiques et basées sur des projets concrets, avec un accent sur les
+applications réelles dans des secteurs variés comme la robotique, les systèmes
+économiques, l’optimisation de processus industriels et bien d’autres.
+
+Que vous souhaitiez débuter ou approfondir vos compétences en informatique ou data
+science, Manabiya vous accueille pour apprendre et pratiquer dans un cadre convivial,
+avec des projets utiles au quotidien.
+
+[Introduction to Python]: python-intro-data-science.md
+[Git for non-coders]: git.md
+
+

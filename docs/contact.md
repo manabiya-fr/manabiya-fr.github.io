@@ -1,5 +1,5 @@
 ---
-description: Contact Manabiya Grenoble France.
+description: Contact Manabiya Grenoble France / Contactez-nous à Grenoble. Formations et ateliers en présentiel.
 ---
 
 # Contact us
