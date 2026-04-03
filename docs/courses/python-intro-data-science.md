@@ -9,10 +9,10 @@ hide:
 
 !!! note ""
 
-	+ **Upcoming Course Dates**: 30 March &mdash; 27 April, 2026
+	+ **Most recent offering**: 30 March &mdash; 27 April, 2026
 	+ **Course Format**: this is a "_Project Studio_" style course &mdash; see [description](#course-format)
 	+ **Cost**: €450
-	+ **Register**: contact us at contact@manabiya.fr
+	+ **Interested?**: contact us at contact@manabiya.fr
     + **Instructor**: [Dimitar Dimitrov![](../img/dimitar_dimitrov.jpg){ align=right width="180" }](https://drdv.net)
 	+ **Language**: English
 
