@@ -1,6 +1,6 @@
 ---
 description: Formations en informatique, data science et optimisation à Grenoble. Cours en anglais, en présentiel. Python, Git et projets concrets.
-hide
+hide:
     - toc
 ---
 

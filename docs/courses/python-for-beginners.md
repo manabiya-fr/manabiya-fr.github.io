@@ -1,7 +1,7 @@
 ---
 icon: material/language-python
 description: Python for beginners course / cours Initiation à Python à Grenoble, en anglais. Git et GitHub. Formation en présentiel.
-hide
+hide:
     - toc
 ---
 
