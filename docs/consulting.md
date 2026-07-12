@@ -7,19 +7,20 @@ description: Manabiya Grenoble France, consulting.
 ## Free Proof of Concept
 
 Many business challenges &mdash; from production scheduling and resource allocation to
-forecasting, routing, and optimization &mdash; can be solved using operations research,
-optimization, and data science.
+forecasting, routing, and parameter estimation &mdash; can be solved using techniques
+from operations research and data science.
 
-If you're facing such a challenge, we'd be happy to discuss it with you.
+If you're facing a challenge in your business, we'd be happy to discuss it with you. 
 
-If we believe your problem is a good fit, we'll develop a proof of concept over the
-course of a few weeks &mdash; completely free of charge. Our goal is simple: demonstrate,
-using your own problem and data, that a practical solution is possible before you commit
-to a larger project.
+If we can contribute constructively, we'll develop a proof of concept over the course of
+a few weeks &mdash; completely free of charge. Our goal is simple: demonstrate, using
+your own problem and data, that a practical solution is possible before you commit to a
+larger project.
 
 ### What you receive
 
-- An initial discussion to understand your problem and objectives.
+- Initial discussions to understand your problem and objectives (over the phone or at
+  your location).
 - A prototype or technical demonstration addressing your use case.
 - A summary of our approach, assumptions, and results.
 - Recommendations for turning the prototype into a production-ready solution.
@@ -91,4 +92,4 @@ making. Examples include:
 
 If your problem involves finding the *best* allocation, schedule, route, or decision
 under real-world constraints &mdash; whether offline or in real time &mdash; we'd be
-happy to discuss whether a free proof of concept makes sense.
+happy to discuss.

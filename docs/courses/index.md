@@ -19,7 +19,7 @@ collaborative, on-site setting. Each course has three main aims:
 + [x] **Enrich your abstraction**: use the tool to model problems from various
       applications.
 
-We are located in Grenoble, France. Come visit our [community workshops](workshops.md),
+We are located in Grenoble, France. Come visit our [community workshops](../workshops.md),
 interact with us, experience our environment, and get a sense of how we work.
 
 <h3>What to expect:</h3>
