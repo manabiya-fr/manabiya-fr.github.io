@@ -6,34 +6,7 @@ hide:
 
 # Upcoming Courses
 
-<div class="grid cards" markdown>
-
--   :fontawesome-brands-git-alt: __[Git for non-coders]__  
-    :fontawesome-solid-calendar-check: 29 April &mdash; 6 May, 2026  
-	:fontawesome-solid-language: English
-  
-    ---
-	
-	This is a week-long, hands-on introduction to Git, that is specifically designed for
-	non-programmers. Git is a powerful tool that has transformed the way people manage
-	projects and collaborate &mdash; not just in software development, but in many
-	fields. You’ll learn how to organize your work, track changes with confidence, and
-	collaborate effectively.
-
--   :material-language-python: __[Python for Beginners]__  
-    :fontawesome-solid-calendar-check: Starts on 9 May, 2026 (Four-Saturday Series)  
-	:fontawesome-solid-language: English  
-
-	---
-
-	Over four full Saturdays, you will explore how Python can help you automate everyday
-    tasks. You’ll learn how to think about problems, model them, and explore possible
-    solutions. We start from the basics and aim at developing awareness of computational
-    thinking. By the end of the course, you will be able to approach problems
-    systematically, experiment with Python programs, and gain a practical understanding
-    of how programming can support your projects whether at home, at school, or at work.
-
-</div>
+No courses are scheduled at the moment. 
 
 # Past Courses
 
@@ -51,6 +24,40 @@ hide:
     step, and gain the confidence to experiment with your own ideas. We will build a
     complete data-processing application, with a focus on practical tools and workflows
     commonly used in data science.
+
+</div>
+
+<div class="grid cards" markdown>
+
+-   :material-language-python: __[Git for non-coders]__  
+    :fontawesome-solid-calendar-check: Not scheduled at the moment (contact us at contact@manabiya.fr if you are interested)  
+	:fontawesome-solid-language: English
+
+	---
+
+	This is a week-long, hands-on introduction to Git, that is specifically designed for
+	non-programmers. Git is a powerful tool that has transformed the way people manage
+	projects and collaborate &mdash; not just in software development, but in many
+	fields. You’ll learn how to organize your work, track changes with confidence, and
+	collaborate effectively.
+
+</div>
+
+
+<div class="grid cards" markdown>
+
+-   :material-language-python: __[Python for Beginners]__  
+    :fontawesome-solid-calendar-check: Not scheduled at the moment (contact us at contact@manabiya.fr if you are interested)  
+	:fontawesome-solid-language: English
+
+	---
+
+	Over four full Saturdays, you will explore how Python can help you automate everyday
+    tasks. You’ll learn how to think about problems, model them, and explore possible
+    solutions. We start from the basics and aim at developing awareness of computational
+    thinking. By the end of the course, you will be able to approach problems
+    systematically, experiment with Python programs, and gain a practical understanding
+    of how programming can support your projects whether at home, at school, or at work.
 
 </div>
 

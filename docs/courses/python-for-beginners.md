@@ -9,10 +9,10 @@ hide:
 
 !!! note ""
 
-	+ **Upcoming Course Dates**: Starts on 9 May, 2026
+	+ **Most recent offering**: Started on 9 May, 2026 (Four-Saturday Series)
 	+ **Course Format**: Four-Saturday Series &mdash; see [description](#course-format)
 	+ **Cost**: €290
-	+ **Register**: contact us at contact@manabiya.fr
+	+ **Interested?**: contact us at contact@manabiya.fr
     + **Instructor**: [Dimitar Dimitrov![](../img/dimitar_dimitrov.jpg){ align=right width="180" }](https://drdv.net)
 	+ **Language**: English
 

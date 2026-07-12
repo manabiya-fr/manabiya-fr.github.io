@@ -7,11 +7,7 @@ copyright = """&copy; 2025-2026 Manabiya"""
 
 nav = [
   { "Home" = "index.md" },
-  { "Courses" = [
-      "courses/index.md",
-	  { "Git for non-coders" = "courses/git.md" },
-	  { "Python for Beginners" = "courses/python-for-beginners.md" },
-  ]},
+  { "Courses" = "courses/index.md" },
   { "Events & Workshops" = "workshops.md" },
   { "FAQ" = "faq.md" },
   { "Contact" = "contact.md" }
